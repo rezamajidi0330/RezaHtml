@@ -1,11 +1,11 @@
 @font-face {
     font-family: yekan;
-    src: url(font/YEKAN\ PLUS.TTF);
+    src: url(YEKAN\ PLUS.TTF);
 }
 
 @font-face {
     font-family: nastaliq;
-    src: url(font/IranNastaliq.ttf);
+    src: url(IranNastaliq.ttf);
 }
 
 a {
@@ -210,4 +210,5 @@ pre {
  .main h1 {
     margin:20px 500px;
     font-size: xx-large;
+
  }
